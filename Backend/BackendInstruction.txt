@@ -1,0 +1,13 @@
+1. Install express from npm website. Express is a node.js wen application framework.
+2. Install color for npm website. For coloring terminal.
+3. Install nodemon for automatic starting the node.js application.
+4. keep port number hidden with the help of (.env) file.
+5. Connect MongoDb with the server, download compass and sign up in Atlas, create database with collection. Inside database access create database user and inside Network Access write your IP address. Now to connect mongodb with node.js copy the string from mongodb and paste in code. You will get your string by clicking on connect inside database. Put user and password in string url. copy the string up to net and paste in mongodb compass nd connect. Done
+6. Install mongoose from npm website to access database and also install Morgan to see your Api in console.
+Install morgan for Api information in console.
+Create folder Models for creating schemas......inside this (1). first create userModels.
+Create authRoute and do routing for register
+create authcontroller in controller to follow MVC pattern
+install bcrypts for hashing password and comparing. Do it in helper by creating authHelper.js
+
+
