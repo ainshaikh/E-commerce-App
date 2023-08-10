@@ -9,5 +9,6 @@ Create folder Models for creating schemas......inside this (1). first create use
 Create authRoute and do routing for register
 create authcontroller in controller to follow MVC pattern
 install bcrypts for hashing password and comparing. Do it in helper by creating authHelper.js
-
+install POSTMAN for API testing
+install jsonwebtoken.
 
