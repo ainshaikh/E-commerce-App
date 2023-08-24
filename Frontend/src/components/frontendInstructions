@@ -1,0 +1,6 @@
+make Layout and inside layout make header and footer folder.
+install react router dom and put it in index.js file
+Create pages folder and inside that make all pages file.
+
+put * in last page of Route. If all the above page is not accessible then the page not found page will open otherwise not.
+
