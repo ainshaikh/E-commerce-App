@@ -4,3 +4,8 @@ Create pages folder and inside that make all pages file.
 
 put * in last page of Route. If all the above page is not accessible then the page not found page will open otherwise not.
 
+Making SEO -----
+intsall react-helmet using npm website for making pages SEO rich.
+
+
+install react-toastify for notification popup and install axios for creating http request (data from server or sending, updating etc).

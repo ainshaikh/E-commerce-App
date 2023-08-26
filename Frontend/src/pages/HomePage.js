@@ -3,7 +3,7 @@ import Layout from "../components/Layout/Layout";
 
 const HomePage = () => {
   return(
-    <Layout>
+    <Layout title={"Shop-Latest clothes"}>
             HomePage
     </Layout>
 )};
