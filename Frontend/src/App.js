@@ -6,6 +6,8 @@ import ContactPage from './pages/ContactPage';
 import PolicyPage from './pages/PolicyPage';
 import PagenotFound from './pages/PagenotFound';
 import Register from './components/Auth/Register';
+import Login from './components/Auth/Login';
+
 
 function App() {
   return (
@@ -17,6 +19,7 @@ function App() {
       <Route path='/policy' element={<PolicyPage />} />
       <Route path="*" element={<PagenotFound />} />   {/* * means if all the above page not accessible then by default pagenotfound page will open*/}
       <Route path="/register" element={<Register />} />
+      <Route path='/login' element={<Login />} />
      </Routes>
     </>
   );

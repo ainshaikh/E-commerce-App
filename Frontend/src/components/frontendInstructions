@@ -9,3 +9,7 @@ intsall react-helmet using npm website for making pages SEO rich.
 
 
 install react-toastify for notification popup and install axios for creating http request (data from server or sending, updating etc).
+
+installed concurently and cors for running 2 servers together and cors to avoid cross origin conflicts between 2 servers.
+
+installed react hot toast for notification
