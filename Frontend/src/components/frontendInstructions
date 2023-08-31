@@ -12,4 +12,6 @@ install react-toastify for notification popup and install axios for creating htt
 
 installed concurently and cors for running 2 servers together and cors to avoid cross origin conflicts between 2 servers.
 
-installed react hot toast for notification
+installed react hot toast for notification.
+
+Now creating context API for global state.
